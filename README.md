@@ -40,7 +40,7 @@ The following attributes are included in the `load_breast_cancer` dataset:
 The logistic regression model was evaluated using 4-folds with the following cross-validated accuracy scores: `[0.93006993 0.93661972 0.95070423 0.93661972]` and the mean cross-validated accuracy was `0.9385`. The model's intercept was `0.33808955` and the relationship between the features 'worst concavity' and 'worst area' to the target result were `-1.48290324` and `-4.28202054` respectively. The accuracy of the model was `0.9532` and the F1-score was `0.9636`.
 
 ## Dataset
-The dataset used in this project, `load_breast_cancer`, can be found on the scikit-learn website: https://scikit-learn.org/stable/datasets/index.html#breast-cancer-dataset
+The dataset used in this project, `load_breast_cancer`, can be found on the scikit-learn website: https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html
 
 ## Installation
 The project was developed using Anaconda distribution, which can be installed using the following command in the command-line interface (CLI):
